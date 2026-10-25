@@ -2,7 +2,6 @@
 
 Ứng dụng desktop/web để dịch, lồng tiếng, biên tập timeline và tạo video review phim. ZM AI TOOL ưu tiên xử lý cục bộ; dịch vụ cloud chỉ được dùng khi bạn chủ động chọn và cấu hình chúng.
 
-[![Version](https://img.shields.io/github/package-json/v/manhgdev/zm_ai_tool_vip)](package.json)
 [![Node](https://img.shields.io/badge/node-24-green.svg)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
